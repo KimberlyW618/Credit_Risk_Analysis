@@ -60,6 +60,18 @@ Credit Risk Sampling Results:
 
 ### Images 
 
+![Naïve Random Oversampling](images/Naïve_Random_Oversampling.png)
+
+![SMOTE Oversampling](images/SMOTE_Oversampling.png)
+
+![Cluster Centroids Undersampling](images/Cluster_Centroids_Undersampling.png)
+
+![SMOTEENN - Combination (Over and Under) Sampling](images/SMOTEENN_Combo_Sampling.png)
+
+![Balanced Random Forest Classifier](images/Balanced_Random_Forest_Classifier.png)
+
+![Easy Ensemble AdaBoost Classifier](images/Easy_Ensemble_AdaBoost_Classifier.png)
+
 
 ### Summary & Recommendations
 
