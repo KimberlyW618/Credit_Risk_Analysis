@@ -13,7 +13,9 @@ Provided Data: [Loan Stars 2019 Q1 Data](data/LoanStats_2019Q1.csv)
 Provided Starter Code: [Link](code/starter_code)
 
 ## Code
+
 [Credit Risk Resampling](code/credit_risk_resampling.ipynb)
+
 [Credit Risk Ensemble](code/credit_risk_ensemble.ipynb) 
 
 ## Results 
